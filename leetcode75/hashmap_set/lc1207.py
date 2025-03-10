@@ -8,4 +8,4 @@ class Solution:
         key_occurances = len(set(hashmap.keys()))
         value_occurances = len(set(hashmap.values()))
 
-        return key_occurances == value_occurances
+        return key_occurances == value_occurances   
